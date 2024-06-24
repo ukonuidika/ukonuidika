@@ -42,7 +42,7 @@ Reach me at ukonu.idika@yahoo.com
 [![FED1-PE1-ukonuidika Card](https://github-readme-stats.vercel.app/api/pin/?username=NoroffFEU&repo=FED1-PE1-ukonuidika&theme=dark)](https://github.com/NoroffFEU/FED1-PE1-ukonuidika)
 [![Portfolio-1-Assignment Card](https://github-readme-stats.vercel.app/api/pin/?username=ukonuidika&repo=Portfolio-1-Assignment&theme=dark)](https://github.com/ukonuidika/Portfolio-1-Assignment)
 
-### My Project Live Links
+### My Projects Live Links
 
 - [HTML-CSS-CA](https://monumental-kangaroo-98117a.netlify.app/)
 - [Drammen-Science-Museum-Semester-Project-1](https://fascinating-biscuit-16f375.netlify.app/)
