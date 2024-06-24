@@ -5,7 +5,7 @@
 - From Abia State, Nigeria <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="17" valign="middle"/>
 - Frontend developer with interest in full-stack
 - Higher National Diploma in Computer Science from Heritage Polythechnic Eket Nigeria
-- Music, traveling, cooking, gaming, watching movies, playing football, technology.
+- Music, traveling, cooking, gaming, watching movies, playing football, swimming, technology.
 - He/Him
 
 
