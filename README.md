@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hello!<img src="https://user-images.githubusercontent.com/81162745/204531600-e3f43e3e-ffb0-4702-a933-aa78d7ad098b.png" width="30"/> I'm Ukonu Kalu Idika</b></h1>
 
-<br/>
-
 - From Abia State, Nigeria <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/ng.svg" width="17" valign="middle"/>
 - Frontend developer with interest in full-stack
 - Higher National Diploma in Computer Science from Heritage Polythechnic Eket Nigeria
